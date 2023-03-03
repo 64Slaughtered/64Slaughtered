@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @64Slaughtered
-- 👀 I’m interested in Cloud Services and architecting Cloud solutions
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cloud Services, Infrastructure as Code and architecting Cloud solutions
+- 🌱 I’m currently learning AWS and Azure; Google Cloud is up next
+- 💞️ I’m looking to continue learning; 
 - 📫 How to reach me Email is best
 
 <!---
